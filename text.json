@@ -1,1 +1,6 @@
-{ "message": "IMPORTANT: YOU HAVE RECIEVED AN ORDER. /n TO CONFIRM PLEASE CHECK YOUR APP" }
+{
+  "tb1": "Project 1 : Portfolio / Progress tracker",
+  "tb2": "Project 2 : Ordering app prototype",
+  "tb3": "Project 3 : TIC TAC TOE",
+  "tb4": "Project 4 : SUDOKU"
+}
